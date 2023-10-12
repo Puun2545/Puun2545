@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Puun Vachangngern (@Puun2545)
-- 👀 I’m interested in Developing and Network / System engineer
+- 👀 I’m interested in Developing and Network / System engineer and Passionate on Game Development
 - 🌱 I’m currently learning on Cloud computing and Python Framework
 
 <!---
